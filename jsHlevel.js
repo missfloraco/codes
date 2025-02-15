@@ -1,4 +1,3 @@
-
 <script>
   // منع الضغط بزر الفأرة الأيمن
   document.addEventListener("contextmenu", function(event) {
