@@ -1,5 +1,5 @@
 <script>
-  // منع الضغط بزر الفأرة الأيمن new2
+  // منع الضغط بزر الفأرة الأيمن new22
   document.addEventListener("contextmenu", function(event) {
     event.preventDefault();
   });
