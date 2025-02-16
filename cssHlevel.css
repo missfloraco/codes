@@ -1,5 +1,5 @@
 ::-webkit-scrollbar {
-  width: 150px;
+  width: 70px;
  
 }
 ::-webkit-scrollbar-thumb {
@@ -8,5 +8,5 @@
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #f80d0d; 
+  background: #000; 
 }
