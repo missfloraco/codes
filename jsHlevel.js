@@ -1,5 +1,5 @@
 <script>
-  // منع الضغط بزر الفأرة الأيمن
+  // منع الضغط بزر الفأرة الأيمن معدل جديد
   document.addEventListener("contextmenu", function(event) {
     event.preventDefault();
   });
