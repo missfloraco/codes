@@ -1,16 +1,16 @@
-/** ------------- nnn ------------- **/
+/** ------------- shnb ------------- **/
 
 ::-webkit-scrollbar {
-  width: 20px;
+  width: 10px;
  
 }
 ::-webkit-scrollbar-thumb {
   background: #000;
-  border-left:2px solid red;
+  border-left:1px solid red;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #000; 
+  background: #red; 
 }
 
 
