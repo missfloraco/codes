@@ -1,5 +1,5 @@
 <script>
-  // منع الضغط بزر الفأرة الأيمن new22
+  // منع الضغط بزر الفأرة الأيمن جديد طازة
   document.addEventListener("contextmenu", function(event) {
     event.preventDefault();
   });
