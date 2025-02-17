@@ -10,5 +10,13 @@
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #1a0000; 
+  background: #000; 
 }
+
+
+.rtl {
+    direction: rtl;
+ /* تعيين الاتجاه من اليمين لليسار */
+    text-align: right;
+ /* لضبط النصوص والمحاذاة */
+}     
