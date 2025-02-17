@@ -1,6 +1,5 @@
-<script>
-  // منع الضغط بزر الفأرة الأيمن جديد طازة
-  document.addEventListener("contextmenu", function(event) {
+// منع فتح مصدر الصفحة جديد
+document.addEventListener("contextmenu", function(event) {
     event.preventDefault();
   });
 
@@ -46,4 +45,3 @@
   document.addEventListener("dragstart", function(event) {
     event.preventDefault();
   });
-</script>
