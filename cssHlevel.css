@@ -1,11 +1,11 @@
 /** ------------- جديد ------------- **/
 
 ::-webkit-scrollbar {
-  width: 70px;
+  width: 10px;
  
 }
 ::-webkit-scrollbar-thumb {
-  background: #e5ff00;
+  background: #fff;
   border-left:2px solid #fff;
 }
 
