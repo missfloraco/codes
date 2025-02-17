@@ -1,3 +1,6 @@
+console.log("JavaScript file loaded successfully!");
+
+
 // منع فتح مصدر الصفحة جديد
 document.addEventListener("contextmenu", function(event) {
     event.preventDefault();
