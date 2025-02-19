@@ -50,6 +50,15 @@
     margin-top: 8px!important;
 }
 
+/* -------------- Desktop Menu -------------- */
+
+
+/* رفع نصوص قائمة الكمبيوتر لفوق خمسة بكسل عشان يصير بالنص */
+.nav-menu li.nav-menu-item {
+    padding-bottom: 5px!important;
+}
+
+
 /* -------------- Disable Copy and Right Click -------------- */
 
 body {
