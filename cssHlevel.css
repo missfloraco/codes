@@ -32,6 +32,12 @@
         text-align: right;
     }
 
+@media (max-width: 480px) {
+    .rtlMoblie {
+        direction: rtl;
+        text-align: right;
+    }
+}
 
 /* اذا بدي اعمل توسيط للقائمة واعملها تثبيت في الاعلى */
 .CenterFixedMenu {
