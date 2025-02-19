@@ -1,22 +1,22 @@
-/** ------------- new ------------- **/
+/* Browser Style */
 
 ::-webkit-scrollbar {
-  width: 20px;
- 
+    width: 10px;
 }
+
 ::-webkit-scrollbar-thumb {
-  background: #000;
-  border-left:1px solid red;
+    background: #02aa94;
+    border-left: 2px solid #fff;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #red; 
+    background: #188bf6;
 }
 
 
+/* Classes */
+
 .rtl {
     direction: rtl;
- /* تعيين الاتجاه من اليمين لليسار */
     text-align: right;
- /* لضبط النصوص والمحاذاة */
-}     
+}   
