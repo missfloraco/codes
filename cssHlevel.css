@@ -37,16 +37,6 @@
     justify-self: anchor-center !important;
 }
 
-
-/* -------------- Desktop Menu -------------- */
-
-
-/* رفع نصوص قائمة الكمبيوتر لفوق خمسة بكسل عشان يصير بالنص */
-.nav-menu li.nav-menu-item {
-    padding-bottom: 5px!important;
-}
-
-
 /* -------------- Disable Copy and Right Click -------------- */
 
 body {
@@ -60,10 +50,20 @@ body {
  /* For Internet Explorer/Edge */
 }
 
-/* -------------- Disable Copy and Right Click -------------- */
+
+/* -------------- Desktop Menu -------------- */
+
+
+/* رفع نصوص قائمة الكمبيوتر لفوق خمسة بكسل عشان يصير بالنص */
+.nav-menu li.nav-menu-item {
+    padding-bottom: 5px!important;
+}
+
+
+/* -------------- Mobile Navigation -------------- */
 
 .nav-menu-wrapper.reverse .cart-nav-wrapper {
-    margin-top: 7px!important;
+    margin-top: 8px!important;
 }
 
 div#nav-menu-popup li.nav-menu-item {
@@ -80,5 +80,5 @@ div#nav-menu-popup li.nav-menu-item {
 }
 
 #nav-menu-popup .nav-dropdown-menu {
-    padding-top: 10px!important;
+    padding-top: 15px!important;
 }
