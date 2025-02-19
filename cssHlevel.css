@@ -50,12 +50,6 @@
     margin-top: 8px!important;
 }
 
-/* رفع نصوص قائمة الكمبيوتر لفوق خمسة بكسل عشان يصير بالنص */
-.nav-menu li.nav-menu-item {
-    padding-bottom: 6px!important;
-}
-
-
 /* -------------- Disable Copy and Right Click -------------- */
 
 body {
