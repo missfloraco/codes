@@ -32,11 +32,9 @@
         text-align: right;
     }
 
-@media (max-width: 350px) {
-    .rtlMoblie {
-        direction: rtl;
-        text-align: right;
-    }
+#faq {
+    direction: rtl;
+    text-align: right;
 }
 
 /* اذا بدي اعمل توسيط للقائمة واعملها تثبيت في الاعلى */
