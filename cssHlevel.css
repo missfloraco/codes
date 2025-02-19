@@ -31,11 +31,18 @@
 
 
 /* توسيط ايقونة القائمة في الموبايل */
+
 .nav-menu-wrapper .cart-nav-wrapper {
     margin-top: 8px!important;
 }
+.nav-menu-wrapper.reverse .cart-nav-wrapper {
+    margin-top: 8px!important;
+}
+
 
 /* رفع نصوص قائمة الكمبيوتر لفوق خمسة بكسل عشان يصير بالنص */
-#nav-menu-8yGBpv-LPQ .nav-menu li.nav-menu-item {
+.nav-menu li.nav-menu-item {
     padding-bottom: 5px!important;
 }
+
+
