@@ -24,6 +24,4 @@
 /* اذا بدي اعمل توسيط للقائمة واعملها تثبيت في الاعلى */
 .CenterFixedMenu {
     justify-self: anchor-center !important;
-    top: 20px !important;
-    
 }
