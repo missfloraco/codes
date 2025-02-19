@@ -32,16 +32,6 @@
         text-align: right;
     }
 
-#faq {
-    direction: rtl;
-    text-align: right;
-}
-
-/* اذا بدي اعمل توسيط للقائمة واعملها تثبيت في الاعلى */
-.CenterFixedMenu {
-    justify-self: anchor-center !important;
-}
-
 /* -------------- Disable Copy and Right Click -------------- */
 
 body {
