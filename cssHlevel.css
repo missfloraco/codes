@@ -1,4 +1,4 @@
-/* Browser Style */
+/* -------------- Browser Style -------------- */
 
 ::-webkit-scrollbar {
     width: 10px;
@@ -14,7 +14,7 @@
 }
 
 
-/* Classes */
+/* -------------- Classes -------------- */
 
 .rtl {
     direction: rtl;
@@ -27,7 +27,7 @@
 }
 
 
-/* Mobile Navigation */
+/* -------------- Mobile Navigation -------------- */
 
 
 /* توسيط ايقونة القائمة في الموبايل */
