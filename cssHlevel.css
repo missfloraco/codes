@@ -50,16 +50,6 @@ body {
  /* For Internet Explorer/Edge */
 }
 
-
-/* -------------- Desktop Menu -------------- */
-
-
-/* رفع نصوص قائمة الكمبيوتر لفوق خمسة بكسل عشان يصير بالنص */
-.nav-menu li.nav-menu-item {
-    padding-bottom: 5px!important;
-}
-
-
 /* -------------- Mobile Navigation -------------- */
 
 .nav-menu-wrapper.reverse .cart-nav-wrapper {
