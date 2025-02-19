@@ -27,12 +27,28 @@
 
 /* -------------- Classes -------------- */
 
-@media (max-width: 480px), @media (max-width: 768px), @media (max-width: 1024px) {
+@media (max-width: 1024px) {
     .rtl {
         direction: rtl;
         text-align: right;
     }
-} 
+}
+
+@media (max-width: 768px) {
+    .rtl {
+        direction: rtl;
+        text-align: right;
+    }
+}
+
+@media (max-width: 480px) {
+    .rtl {
+        direction: rtl;
+        text-align: right;
+    }
+}
+
+
 
 /* اذا بدي اعمل توسيط للقائمة واعملها تثبيت في الاعلى */
 .CenterFixedMenu {
