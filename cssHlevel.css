@@ -63,11 +63,11 @@ body {
 /* -------------- Mobile Navigation -------------- */
 
 .nav-menu-wrapper.reverse .cart-nav-wrapper {
-    margin-top: 8px!important;
+    margin-top: 9px!important;
 }
 
 div#nav-menu-popup li.nav-menu-item {
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
 
 #nav-menu-popup .nav-menu-body .nav-dropdown-menu .nav-menu-item {
