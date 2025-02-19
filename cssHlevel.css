@@ -51,9 +51,17 @@
 }
 
 
-/* رفع نصوص قائمة الكمبيوتر لفوق خمسة بكسل عشان يصير بالنص */
-.nav-menu li.nav-menu-item {
-    padding-bottom: 5px!important;
+/* -------------- Disable Copy and Right Click -------------- */
+
+body {
+    user-select: none;
+ /* For modern browsers */
+    -webkit-user-select: none;
+ /* For Safari */
+    -moz-user-select: none;
+ /* For Firefox */
+    -ms-user-select: none;
+ /* For Internet Explorer/Edge */
 }
 
 
