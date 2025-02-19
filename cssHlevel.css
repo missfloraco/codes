@@ -60,4 +60,25 @@ body {
  /* For Internet Explorer/Edge */
 }
 
+/* -------------- Disable Copy and Right Click -------------- */
 
+.nav-menu-wrapper.reverse .cart-nav-wrapper {
+    margin-top: 7px!important;
+}
+
+div#nav-menu-popup li.nav-menu-item {
+    margin-bottom: 10px;
+}
+
+#nav-menu-popup .nav-menu-body .nav-dropdown-menu .nav-menu-item {
+    background: #fff!important;
+}
+
+#nav-menu-popup .nav-menu .nav-menu-item .nav-menu-item-content .nav-menu-item-toggle {
+    right: 10px!important;
+    top: calc(50% - 20px)!important;
+}
+
+#nav-menu-popup .nav-dropdown-menu {
+    padding-top: 10px!important;
+}
