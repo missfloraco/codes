@@ -32,7 +32,7 @@
         text-align: right;
     }
 
-@media (max-width: 400px) {
+@media (max-width: 350px) {
     .rtlMoblie {
         direction: rtl;
         text-align: right;
