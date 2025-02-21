@@ -29,7 +29,12 @@
 
 .rtl {
         direction: rtl;
+        text-align: right;
     }
+
+#faq-ezb4RMwYpE {
+    direction: rtl;
+}
 
 /* -------------- Disable Copy and Right Click -------------- */
 
