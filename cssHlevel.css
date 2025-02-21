@@ -48,5 +48,14 @@ body {
 /* -------------- Mobile Navigation -------------- */
 
 .nav-menu-wrapper.reverse .cart-nav-wrapper {
-    margin-top: 10px!important;
+    margin-top: 12px!important;
 }
+
+
+
+/* اذا بدي اعمل توسيط للقائمة واعملها تثبيت في الاعلى */
+/* .CenterFixedMenu {
+    justify-self: anchor-center !important;
+} */
+
+
