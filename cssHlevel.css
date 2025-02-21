@@ -32,10 +32,6 @@
         text-align: right;
     }
 
-.faq-separated-child .hl-faq-child-heading {
-    direction: rtl;
-}
-
 /* -------------- Disable Copy and Right Click -------------- */
 
 body {
